@@ -1,0 +1,29 @@
+# 基础框架
+fastapi==0.104.1
+pydantic==2.5.2
+python-multipart==0.0.6
+
+# 数据处理
+opencv-python==4.8.1.78
+numpy==1.26.2
+pandas==2.1.4
+python-dotenv==1.0.0
+requests==2.31.0
+
+# 深度学习框架
+torch==2.2.0
+torchvision==0.17.0
+transformers==4.36.2
+peft==0.7.1
+accelerate==0.25.0
+bitsandbytes==0.41.1
+ultralytics
+
+# 向量数据库与知识图谱
+pymilvus==2.3.4
+# neo4j==5.14.0
+
+# 智能体
+langgraph
+langchain
+# python-drools==0.1.5
